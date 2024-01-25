@@ -3,7 +3,7 @@ I'm dpeaz, Full Stack Developer :computer:
 
 ### About Me
 
-- :computer: I'm a Fullstack Developer, currently building Bitcorns in the Web3 Space
+- :computer: I'm a Fullstack Developer, currently building Bitcorns in the Web3 Space 🌽
 - :hourglass_flowing_sand: Exploring Solidity & Python
 - :rocket: Always ready to collaborate for Dev Experiments
 
