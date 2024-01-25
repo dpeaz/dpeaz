@@ -13,5 +13,4 @@ I'm dpeaz, Full Stack Developer :computer:
 
 ### Let's connect!
 
-<a href="https://twitter.com/dpeaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpeaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/derekcpease" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derekcpease" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-derekpease-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derek-pease/)](https://www.linkedin.com/in/derek-pease) [![Twitter Badge](https://img.shields.io/badge/-@dpeaz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dpeaz)](https://twitter.com/dpeaz) [![Twitter Badge](https://img.shields.io/badge/-@ordinalbitcorns-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ordinalbitcorns)](https://twitter.com/ordinalbitcorns) 
